@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Unity%20Developer&fontSize=90" />
 ### YuJeong Lee
 👋 Hi, Welcome to My Github Profile!
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.canva.com/design/DAGh2leogn4/F9MmsL5XSjz0EUxHDv7-Ig/edit?utm_content=DAGh2leogn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/badge/Portfolio-444444?style=flat&logo=Protfolio&logoColor=FFFFFF"/></a>
+<a href="https://www.canva.com/design/DAGh2leogn4/7nfX2p0GuBki8PLxJa6UBw/view?utm_content=DAGh2leogn4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6403bc1f23" target="_blank"><img src="https://img.shields.io/badge/Portfolio-444444?style=flat&logo=unity&logoColor=FFFFFF"/></a>
 <a href="mailto:nania000822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nania000822@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="mailto:nania000822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nania000822@naver.com-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
 
