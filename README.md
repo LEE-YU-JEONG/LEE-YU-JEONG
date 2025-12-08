@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Unity%20Developer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20to%20yujeong's%20Github&fontSize=50" />
 
-### YuJeong Lee
 👋 Hi, Welcome to My Github Profile!
 
 <!--
