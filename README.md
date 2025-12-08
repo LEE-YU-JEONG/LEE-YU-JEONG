@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://stump-lifter-1b4.notion.site/Portfolio-1ad55d2c795380908077ee24ba815cbb" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio-444444?style=flat&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://www.canva.com/design/DAGh2leogn4/F9MmsL5XSjz0EUxHDv7-Ig/edit?utm_content=DAGh2leogn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/badge/Portfolio-444444?style=flat&logo=Protfolio&logoColor=FFFFFF"/></a>
 <a href="mailto:nania000822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nania000822@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="mailto:nania000822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nania000822@naver.com-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
 
