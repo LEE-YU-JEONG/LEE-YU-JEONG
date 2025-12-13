@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 <a href="mailto:nania000822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nania000822@naver.com-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYuJoung&show_icons=true&theme=vue-dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYuJoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
