@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYuJoung&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYuJoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={nania000822}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=nania000822&theme=dark)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nania000822)](https://solved.ac/nania000822)
